@@ -1,0 +1,1 @@
+{ "name": "price-pulse-lab", "version": "1.0.0", "private": true, "license": "MIT", "scripts": { "test": "node --test test/", "data": "node scripts/generate-synthetic.js" } }
